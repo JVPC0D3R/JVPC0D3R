@@ -1,5 +1,6 @@
 # Hi there ✋!
 <img src="https://github.com/JVPRUGBIER/resources/blob/main/JVPc_inverted.gif" width="300" height="300" />
+
 ## 🛠 Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
