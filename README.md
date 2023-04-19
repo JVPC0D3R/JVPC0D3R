@@ -1,6 +1,11 @@
+# 👋 WELCOME 
 
+<p align="center">
+  <img src="https://github.com/JVPRUGBIER/resources/blob/main/JVP_home_page.gif" width="100%" />
+</p>
 
-# 🛠 Languages and Tools
+## 🛠 languages and tools
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="CV" alt="CV" width="40" height="40"/>
@@ -9,7 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-# 📈 My Stats
+# 📈 my stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JVPRUGBIER&theme=transparent)](https://git.io/streak-stats)
 
