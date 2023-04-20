@@ -9,7 +9,7 @@
 
   This is my personal github account, I also have a <a href="https://github.com/JVPuc3m">work-related account</a> for my 🧪 lab projects though.
 
-  In my free time, I practice 🏋🏻‍♂️ powerlifting and participate in competitions organized by the Spanish Powerlifting Association, to which my club, <a href="https://www.valkyriapt.com/">Valkyria</a>, is affiliated.
+  In my free time, I practice 🏋️ powerlifting and participate in competitions organized by the Spanish Powerlifting Association, to which my club, <a href="https://www.valkyriapt.com/">Valkyria</a>, is affiliated.
 </p>
 
 
