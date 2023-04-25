@@ -32,5 +32,5 @@
 
 <div style="display: flex; align-items: center;">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=JVPC0D3R&theme=react" alt="GitHub Streak" height="150px">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JVPC0D3R&theme=react&line_height=40&hide=css" alt="Top Languages" height="150px">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JVPC0D3R&layout=compact&theme=react&line_height=40&hide=css&hide_progress=true" alt="Top Languages" height="150px">
 </div>
