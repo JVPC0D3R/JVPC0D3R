@@ -1,4 +1,7 @@
-# 👋 hi, this is Jaime! 
+# 👋 hi, this is Jaime!
+
+![Views](https://komarev.com/ghpvc/?username=JVPC0D3R&style=flat&color=blueviolet)
+[![GitHub](https://img.shields.io/github/followers/JVPC0D3R?label=follow&style=social)](https://github.com/JVPC0D3R)
 
 <p align="center">
   <img src="https://github.com/JVPC0D3R/resources/blob/main/JVP_home_page.gif" width="100%" />
