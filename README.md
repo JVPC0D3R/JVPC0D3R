@@ -12,28 +12,53 @@
 
   This is my personal github account, I also have a <a href="https://github.com/JVPuc3m">work-related account</a> for my 🧪 lab projects though.
 
-  In my free time, I practice 🏋️ powerlifting and participate in competitions organized by the Spanish Powerlifting Association, to which my club, <a href="https://www.valkyriapt.com/">Valkyria</a>, is affiliated.
+  In my free time, I 🏋️ lift heavy stuff.
+  
 </p>
+  
+## 📜 languages
 
+[![Python](https://img.shields.io/badge/python-3a3a3a?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/JVPC0D3R)
+[![C++](https://img.shields.io/badge/c++-3a3a3a?style=for-the-badge&logo=cplusplus&logoColor=magenta)](https://github.com/JVPC0D3R)
+[![Bash](https://img.shields.io/badge/bash-3a3a3a?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/JVPC0D3R)
+[![Arduino](https://img.shields.io/badge/Arduino-3a3a3a?style=for-the-badge&logo=Arduino&logoColor=cyan)](https://github.com/JVPC0D3R)
+[![TIA-portal](https://img.shields.io/badge/TIA_portal-3a3a3a?style=for-the-badge&logo=Siemens&logoColor=cyan)](https://github.com/JVPC0D3R)
+  
+## 🤖 robotics, deep learning and computer vision
 
-## 🛠 languages and tools
+[![ROS](https://img.shields.io/badge/ROS-3a3a3a?style=for-the-badge&logo=ROS&logoColor=blue)](https://github.com/JVPC0D3R)
+[![PyTorch](https://img.shields.io/badge/PyTorch-3a3a3a?style=for-the-badge&logo=PyTorch)](https://github.com/JVPC0D3R)
+[![Tensorflow](https://img.shields.io/badge/Tensorflow-3a3a3a?style=for-the-badge&logo=Tensorflow)](https://github.com/JVPC0D3R)
+[![NumPy](https://img.shields.io/badge/numpy-3a3a3a?style=for-the-badge&logo=numpy)](https://github.com/JVPC0D3R)
+[![CV2](https://img.shields.io/badge/OPENCV-3a3a3a?style=for-the-badge&logo=OpenCV)](https://github.com/JVPC0D3R)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-3a3a3a?style=for-the-badge&logo=scikit-learn)](https://github.com/JVPC0D3R)
+  
+## 💻 platforms
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src=https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg title="CPP"  alt="CPP" width="40" height="40"/>
-  <img src=https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg title="bash"  alt="bash" width="40" height="40"/>
-  <img src=https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg title="conda" alt="conda" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="CV" alt="CV" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src=https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg title="Arduino" alt="Arduino" width="40" height="40"/>
-  <img src=https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg title="Raspi" alt="Raspi" width="40" height="40"/>
-</div>
+[![Razer](https://img.shields.io/badge/RAZER_BLADE_14-3a3a3a?style=for-the-badge&logo=Razer&logoColor=green)](https://github.com/JVPC0D3R)
+[![Jetson](https://img.shields.io/badge/Jetson_NANO-3a3a3a?style=for-the-badge&logo=nvidia&logoColor=green)](https://github.com/JVPC0D3R/jetson-nano)
+[![Jetson](https://img.shields.io/badge/Jetson_XAVIER_AGX-3a3a3a?style=for-the-badge&logo=nvidia&logoColor=green)](https://github.com/JVPC0D3R)
+[![Raspi](https://img.shields.io/badge/Raspberry-3a3a3a?style=for-the-badge&logo=Raspberry-Pi&logoColor=red)](https://github.com/JVPC0D3R)
 
+  
 ## 📈 my stats
 
 <div style="display: flex; align-items: center;">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=JVPC0D3R&theme=react" alt="GitHub Streak" height="150px">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JVPC0D3R&layout=compact&theme=react&line_height=40&hide=css&hide_progress=true" alt="Top Languages" height="150px">
+  
+  <a href="https://github.com/JVPC0D3R">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JVPC0D3R&theme=transparent" />
+  </a>
+  
+  <a href="https://github.com/JVPC0D3R">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JVPC0D3R&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  
+  <a href="https://github.com/JVPC0D3R">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JVPC0D3R&theme=transparent" />
+  </a>
+  
+  <a href="https://github.com/JVPC0D3R">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVPC0D3R&langs_count=10&layout=compact&card_width=699&hide_border=true&theme=transparent" />
+  </a>
 </div>
+
