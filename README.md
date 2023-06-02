@@ -25,7 +25,7 @@
 ## 📜 languages
 
 [![Python](https://img.shields.io/badge/python-3a3a3a?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/JVPC0D3R)
-[![C++](https://img.shields.io/badge/c++-3a3a3a?style=for-the-badge&logo=cplusplus&logoColor=magenta)](https://github.com/JVPC0D3R)
+[![C++](https://img.shields.io/badge/c++-3a3a3a?style=for-the-badge&logo=cplusplus&logoColor=blue)](https://github.com/JVPC0D3R)
 [![Bash](https://img.shields.io/badge/bash-3a3a3a?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/JVPC0D3R)
 [![Arduino](https://img.shields.io/badge/Arduino-3a3a3a?style=for-the-badge&logo=Arduino&logoColor=cyan)](https://github.com/JVPC0D3R)
 [![ABB](https://img.shields.io/badge/ABB%20RobotStudio-3a3a3a?style=for-the-badge&logo=ABB%20RobotStudio)](https://github.com/JVPC0D3R)
