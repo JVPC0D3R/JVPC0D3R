@@ -9,17 +9,6 @@
 
 <p align="justify">
   I am an ⚡️ Industrial Electronics and Automation Engineer, graduated from the University of Valladolid, with a Master's degree in 🤖 Robotics and Automation. I am currently pursuing a 📚 PhD in Electrical and Electronic Engineering at the Carlos III University of Madrid, working and researching at <a href="https://lsi.uc3m.es/">LSI (Laboratorio de Sistemas Inteligentes)</a>.
-
-  This is my personal github account, I also have a <a href="https://github.com/JVPuc3m">work-related account</a> for my 🧪 lab projects though.
-</p>
-
-<p align="center">
-  <img src="https://github.com/JVPC0D3R/resources/blob/main/jvp_deadlift.gif" width="50%" />
-</p>
-
-<p align="justify">
-  In my free time, I practice 🏋️ powerlifting and participate in the AEP (Spanish Powerlifting Association) competitions as a member of Valkyria.
-  
 </p>
   
 ## 📜 languages
