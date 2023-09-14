@@ -34,9 +34,10 @@
 ## 💻 platforms
 
 [![Razer](https://img.shields.io/badge/RAZER_BLADE_14-3a3a3a?style=for-the-badge&logo=Razer&logoColor=green)](https://github.com/JVPC0D3R)
-[![Jetson](https://img.shields.io/badge/Jetson_NANO-3a3a3a?style=for-the-badge&logo=nvidia&logoColor=green)](https://github.com/JVPC0D3R/jetson-nano)
-[![Jetson](https://img.shields.io/badge/Jetson_XAVIER_AGX-3a3a3a?style=for-the-badge&logo=nvidia&logoColor=green)](https://github.com/JVPC0D3R)
-[![Raspi](https://img.shields.io/badge/Raspberry-3a3a3a?style=for-the-badge&logo=Raspberry-Pi&logoColor=red)](https://github.com/JVPC0D3R)
+[![Jetson](https://img.shields.io/badge/Jetson_NANO_Developer_Kit_4GB-3a3a3a?style=for-the-badge&logo=nvidia&logoColor=green)](https://github.com/JVPC0D3R/jetson-nano)
+[![Jetson](https://img.shields.io/badge/Jetson_XAVIER_AGX_Developer_Kit_16GB-3a3a3a?style=for-the-badge&logo=nvidia&logoColor=green)](https://github.com/JVPC0D3R)
+[![Jetson](https://img.shields.io/badge/Jetson_ORIN_AGX_Developer_Kit_64GB-3a3a3a?style=for-the-badge&logo=nvidia&logoColor=green)](https://github.com/JVPC0D3R)
+[![Raspi](https://img.shields.io/badge/Raspberry_Pi_3B-3a3a3a?style=for-the-badge&logo=Raspberry-Pi&logoColor=red)](https://github.com/JVPC0D3R)
 
   
 ## 📈 my stats
