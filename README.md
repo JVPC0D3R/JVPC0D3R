@@ -22,7 +22,7 @@
 [![Flutter](https://img.shields.io/badge/FLUTTER-3a3a3a?style=for-the-badge&logo=Flutter&logoColor=blue)](https://github.com/JVPC0D3R)
 
   
-## 🤖 robotics, deep learning and computer vision
+## 🛠️ tools
 
 [![ROS](https://img.shields.io/badge/ROS-3a3a3a?style=for-the-badge&logo=ROS&logoColor=blue)](https://github.com/JVPC0D3R)
 [![PyTorch](https://img.shields.io/badge/PyTorch-3a3a3a?style=for-the-badge&logo=PyTorch)](https://github.com/JVPC0D3R)
@@ -39,6 +39,9 @@
 [![Jetson](https://img.shields.io/badge/Jetson_ORIN_AGX_Developer_Kit_64GB-3a3a3a?style=for-the-badge&logo=nvidia&logoColor=green)](https://github.com/JVPC0D3R)
 [![Raspi](https://img.shields.io/badge/Raspberry_Pi_3B-3a3a3a?style=for-the-badge&logo=Raspberry-Pi&logoColor=red)](https://github.com/JVPC0D3R)
 
+## 🤖 robots 
+
+[![ABB](https://img.shields.io/badge/ABB_IRB_360_1/1600-3a3a3a?style=for-the-badge&logo=ABB%20RobotStudio)](https://github.com/JVPC0D3R)
   
 ## 📈 my stats
 
